@@ -38,4 +38,8 @@ Country-wise filtering implemented to make dashboard dynamically update based on
 5. Screenshots/Demos:
 
 Show what the dashboard looks like: 
+Dark Theme of the dashboard looks like: https://github.com/Sandli07goyal/Customer-Performance-Dashboard/blob/main/Dark%20Theme%20Dashboard.png
+Light Theme of the dashboard looks like: 
+
+
 
